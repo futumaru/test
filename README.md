@@ -11,6 +11,6 @@ from aaa.bbb import ccc
 ```bash
 aaa -v
 ```
--[] aa
--[] bb
+- [ ]  aa
+- [ ]  bb
 
